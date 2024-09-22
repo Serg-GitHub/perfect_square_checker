@@ -13,7 +13,7 @@ int main()
 
     // Check if square of sqrt_num is equal to user integer input
     if (sqrt_num * sqrt_num == num)
-        ;
+        
     {
         printf("%d is a perfect square.\n", num);
     }
