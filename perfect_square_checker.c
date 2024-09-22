@@ -7,7 +7,7 @@ int main()
     printf("Enter a positive integer: ");
     scanf("%d", &num);
 
-    /* Declare variable sqrt_num and calculate it
+    /* Declare variable sqrt_num and calculate itclea
     Put result of sqrt_num into num for comparison */
     int sqrt_num = (int)sqrt(num); 
 
